@@ -8,3 +8,7 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can literally be applied to anything. One example is healthcare. With the vast quantity of data on patients, data science can be used to find patterns and trends.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging preserves history of both branches and attempts to squish them together. Rebasing continuously edits on the end of a branch.
+
